@@ -1,0 +1,13 @@
+{
+  "itemGroup.kwf": "Example Mod Tab",
+  "block.kwf.example_block": "Example Block",
+  "item.kwf.example_item": "Example Item",
+
+  "kwf.configuration.title": "KirbyWithFeet Configs",
+  "kwf.configuration.section.kwf.common.toml": "KirbyWithFeet Configs",
+  "kwf.configuration.section.kwf.common.toml.title": "KirbyWithFeet Configs",
+  "kwf.configuration.items": "Item List",
+  "kwf.configuration.logDirtBlock": "Log Dirt Block",
+  "kwf.configuration.magicNumberIntroduction": "Magic Number Text",
+  "kwf.configuration.magicNumber": "Magic Number"
+}
