@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "kwf:steel_ingot"
+    },
+    {
+      "item": "kwf:steel_ingot"
+    },
+    {
+      "item": "kwf:steel_ingot"
+    },
+    {
+      "item": "kwf:steel_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_ingot"
+  }
+}
