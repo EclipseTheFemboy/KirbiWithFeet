@@ -1,25 +1,31 @@
+==============================
+Information About This Mod
+==============================
+This mod is a content mod for minecraft, it (will) features new materials, weapons, armor sets, blocks, entities and much more!
 
-Installation information
-=======
+Items added:
+- Steel Ingot
+- Steel Scythe (debug texture)
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Huge thanks to Doctor4t, Luxintrus, Winsweep and EightSidedCube for the inspiration and will to make this mod, 
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+====================
+Installation Guide
+====================
+Go to my Google drive download link either from the "Demo Link" in my project on the SOM website or here: [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/file/d/1DV3zv1Kz9SrXm2_z4NtcHkRmKnVqhjgf/view?usp=drive_link)
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
+====================
 Additional Resources: 
-==========
+====================
+
+These here helped me out a ton as a first time NeoForge Mod dev ^^
+ 
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+
+
+Huge thanks to everyone that helped me out and is helping me out during this journey, especially: 
+- The Summer Of Making Admins that decided to fuel my determination to create
+- Kaupenjoe (https://www.youtube.com/@ModdingByKaupenjoe) , his tutorials are amazing
+- My brothers, who taught me how to code in the first place
+- And last but not least, my school, who supported me all the way 
