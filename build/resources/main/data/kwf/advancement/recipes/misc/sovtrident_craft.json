@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_strident": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kwf:sovereigns_trident"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "kwf:sovtrident_craft"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_strident"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "kwf:sovtrident_craft"
+    ]
+  }
+}

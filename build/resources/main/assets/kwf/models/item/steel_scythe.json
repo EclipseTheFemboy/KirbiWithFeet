@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "kwf:item/steel_scythe_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "kwf:item/steel_scythe_2d"
+    },
+    "ground": {
+      "parent": "kwf:item/steel_scythe_2d"
+    },
+    "fixed": {
+      "parent": "kwf:item/steel_scythe_2d"
+    }
+  }
+}
