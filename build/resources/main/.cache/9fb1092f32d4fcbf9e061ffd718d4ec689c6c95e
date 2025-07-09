@@ -1,9 +1,0 @@
-// 1.21.1	2025-07-09T16:40:44.4123659	Recipes
-bdadf0fa81e6032e1285282e9a3d307888df4047 data/kwf/advancement/recipes/misc/ironcoal_to_steel.json
-e33da4d823c056fc7c19ce91bbf272a7631269b6 data/kwf/advancement/recipes/misc/sovtrident_craft.json
-7cb6f0eda938b1c3ac5162fe08e8146094c86ebb data/kwf/advancement/recipes/misc/steelscythe_craft.json
-0d99fa937e0be491418c38469e02a1f52f6407d8 data/kwf/recipe/ironcoal_to_steel.json
-ccc26d4f40b292880208a4d81e5e073c445d57ee data/kwf/recipe/sovtrident_craft.json
-8e8c354d14b493492e719d89be84048c039b00d6 data/kwf/recipe/steelscythe_craft.json
-0e7b473bd0f844a77bbfd79e28f4271ea9fab510 data/minecraft/advancement/recipes/misc/steel_ingot_from_smelting_steel_ingot.json
-65e539a04fe6f47eefa79651fb3aec597f8c5995 data/minecraft/recipe/steel_ingot_from_smelting_steel_ingot.json

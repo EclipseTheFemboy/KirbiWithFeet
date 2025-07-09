@@ -1,3 +1,0 @@
-/give Dev kwf:steel_ingot
-/gamerule doDaylightCycle false
-/time set day

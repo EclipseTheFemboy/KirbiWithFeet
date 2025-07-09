@@ -1,7 +1,0 @@
-// 1.21.1	2025-06-27T22:20:02.1895524	Recipes
-bdadf0fa81e6032e1285282e9a3d307888df4047 data/kwf/advancement/recipes/misc/ironcoal_to_steel.json
-73dc75673688cb463f480da1113838c4d85c7d0a data/kwf/advancement/recipes/misc/steel_to_netherite.json
-abac47e1dec5e929b255d7ddc3860323f17c83e9 data/kwf/recipe/ironcoal_to_steel.json
-9231a57b2e98cc292c6ac618215ae1e90631792f data/kwf/recipe/steel_to_netherite.json
-0e7b473bd0f844a77bbfd79e28f4271ea9fab510 data/minecraft/advancement/recipes/misc/steel_ingot_from_smelting_steel_ingot.json
-65e539a04fe6f47eefa79651fb3aec597f8c5995 data/minecraft/recipe/steel_ingot_from_smelting_steel_ingot.json
