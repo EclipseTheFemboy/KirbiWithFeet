@@ -5,7 +5,9 @@ This mod is a content mod for minecraft, it (will) features new materials, weapo
 
 Items added:
 - Steel Ingot
-- Steel Scythe (debug texture)
+- Steel Scythe
+- SOUL item
+- Sovereign's Trident (Asgore's trident)
 
 Huge thanks to Doctor4t, Luxintrus, Winsweep and EightSidedCube for the inspiration and will to make this mod, 
 
