@@ -3,6 +3,15 @@
   "item.kwf.soul": "SOUL",
   "item.kwf.steel_scythe": "Steel Scythe",
   "item.kwf.sovereigns_trident": "Sovereign's Trident",
+  "item.kwf.raw_crepe": "Raw Crepe",
+  "item.kwf.cooked_crepe": "Cooked Crepe",
+  "item.kwf.chocolate_bucket": "Chocolate Bucket",
+  "item.kwf.choco_crepe": "Chocolate Crepe",
+
+  "tooltip.kwf.choco_crepe.shift_down": "§c'Will you make me your specialty crepes sometimes?' -Lea§r",
+  "tooltip.kwf.choco_crepe": "§7Hold down§r §6SHIFT§r §7to see tooltip contents.",
+
+  "effect.kwf.heartwarmth": "Heartwarmth",
 
   "creativetab.kwf.k_items": "KWF mod items :D"
 }

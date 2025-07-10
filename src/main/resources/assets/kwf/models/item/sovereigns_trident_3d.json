@@ -242,12 +242,12 @@
 			"translation": [0, 0, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -60, 0],
-			"translation": [0, -10, 0]
+			"rotation": [0, -40, 0],
+			"translation": [1.5, -10, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, -60, 0],
-			"translation": [0, -10, 0]
+			"rotation": [0, -40, 0],
+			"translation": [1.5, -10, 0]
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
